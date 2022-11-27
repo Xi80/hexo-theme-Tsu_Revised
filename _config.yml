@@ -3,10 +3,9 @@ menu:
   Archives: /archives
   About: /about/
 #If you dont want it, just comment it out
-weibo: yourweibo
-github: yourgithub
-linkedin: yourlinkedin
-email: mailto:youremail
+twitter: https://twitter.com/LunaTsukinashi
+github: https://github.com/Xi80
+email: mailto:tampopo@osashimi.pro
 
 #Put into /source
 avator: avator.jpg
